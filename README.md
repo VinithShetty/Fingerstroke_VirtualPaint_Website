@@ -15,7 +15,6 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
 - [Testing](#testing)
 
 ---
@@ -78,7 +77,7 @@ conda create -n fingerstroke_env python=3.9
 conda activate fingerstroke_env
 pip install -r requirements.txt
 
-✅ **Testing**
+## ✅ **Testing**
 
 Fingerstroke uses the pytest framework for testing key functionalities.
 
